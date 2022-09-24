@@ -1,8 +1,3 @@
-https://raw.githubusercontent.com/MaxxRider/MaxxRider/main/gifs/welcome.gif 
-
-
-
-
 👋 Hi, I’m @SyTech-bot
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
