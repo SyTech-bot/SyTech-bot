@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @SyTech-bot
+https://raw.githubusercontent.com/MaxxRider/MaxxRider/main/gifs/welcome.gif 
+
+
+
+
+👋 Hi, I’m @SyTech-bot
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
