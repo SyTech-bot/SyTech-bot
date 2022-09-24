@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/about.gif"</div>
 
-<h2>Hey there <img src="https://github.com/MaxxRider/MaxxRider/blob/main/gifs/Hi.gif" width="30px"></h2>
+<h2>Hey there <img src="https://github.com/SyTech-bot/SyTech-bot/blob/main/gifs/Hi.gif" width="30px"></h2>
 
 👋 Hi, I’m @SyTech-bot
 - 👀 I’m interested in ...
